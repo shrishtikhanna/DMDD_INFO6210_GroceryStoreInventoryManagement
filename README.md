@@ -1,4 +1,4 @@
-# DMDD_INFO6210_GroceryStoreInventoryManagement
+# GroceryStoreInventoryManagement
 A database design model for a grocery store inventory.
 # Database Purpose
 The purpose of this database is to track and monitor the data used by a grocery store to keep its inventory stocked and available for potential customers. This way they will not need to worry about running out of items. Some of the functionalities of the database include managing employees, products and suppliers.The primary users are administrators who are in charge of managing the store and keeping items and shelves stocked.
